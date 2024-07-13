@@ -20,5 +20,8 @@ Este proyecto implementa el clásico juego del Ahorcado usando el lenguaje de pr
 ## Requisitos
 
 - Un compilador de C++ compatible.
+- Recomendable visual studio code o code blocks
+- Mejor interactividad sis e ejecuta en unterminal externo al de visual studio code
 
-## Cómo Compilar y Ejecutar
+## Importante
+- Para que los corazones [char(3)] se muestren correctamente, es necesario configurar Visual Studio Code para que use la codificación ISO-8859-1 en vez de UTF-8.
